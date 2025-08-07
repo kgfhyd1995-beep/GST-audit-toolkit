@@ -1,2 +1,13 @@
-# Google App Engine generated folder
-appengine-generated/
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+
+# macOS specific files
+.DS_Store
+
+# IDE and environment files
+.vscode/
+.idea/
+*.pyc
+__pycache__/
